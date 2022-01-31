@@ -75,3 +75,4 @@ class ScissorsAction(BaseAction):
         if other.name == 'Rock':
             return True
         return False
+    
